@@ -1,0 +1,68 @@
+
+@media(max-width: 576px){
+    .body{
+        display: block;
+    }
+    #text-box{
+        height: 100%;
+        width: 100%;
+    }
+
+
+    #image-div{
+        display: flex;
+        justify-content: center;
+        width: 600px;
+        height: 600px;
+        justify-content: center;
+        background-size: cover;
+        padding-left: 0%;
+    }
+
+    #image{
+        width: 100%; height: 100%;
+        width: 100%;
+        padding-right: 10%;
+        padding-left: 0%;
+        height: 100%;
+        display: flex;
+
+    }
+
+    #first-row{
+        display: flexbox;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
